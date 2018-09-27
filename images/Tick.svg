@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Final---2" transform="translate(-960.000000, -2899.000000)" fill="#84CD3D">
+            <g id="Why-Choose-Us" transform="translate(20.000000, 2711.000000)">
+                <g id="Points" transform="translate(940.000000, 185.000000)">
+                    <g id="1">
+                        <path d="M11.6366667,9.47 L7.63666667,13.47 C7.50666667,13.6 7.33666667,13.6666667 7.16666667,13.6666667 C6.99666667,13.6666667 6.82666667,13.6 6.69666667,13.47 L4.36333333,11.1366667 C4.1,10.8766667 4.1,10.4566667 4.36333333,10.1966667 C4.62333333,9.93333333 5.04333333,9.93333333 5.30333333,10.1966667 L7.16666667,12.0566667 L10.6966667,8.53 C10.9566667,8.26666667 11.3766667,8.26666667 11.6366667,8.53 C11.9,8.79 11.9,9.21 11.6366667,9.47 Z M8,3 C3.58333333,3 0,6.58333333 0,11 C0,15.4166667 3.58333333,19 8,19 C12.4166667,19 16,15.4166667 16,11 C16,6.58333333 12.4166667,3 8,3 Z" id="Tick"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

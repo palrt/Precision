@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Parking</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Final---2" transform="translate(-771.000000, -5405.000000)" fill="#858585" fill-rule="nonzero">
+            <g id="Footer" transform="translate(20.000000, 5094.000000)">
+                <g id="Get-in-Touch">
+                    <g id="Location" transform="translate(750.000000, 175.000000)">
+                        <g id="Parking" transform="translate(1.000000, 132.000000)">
+                            <path d="M7.5,8.75 C7.5,9.4395 6.939,10 6.25,10 L5,10 L5,7.5 L6.25,7.5 C6.939,7.5 7.5,8.0605 7.5,8.75 M6.25,11 L5,11 L5,13.25 C5,13.3880712 4.88807119,13.5 4.75,13.5 L4.25,13.5 C4.11192881,13.5 4,13.3880712 4,13.25 L4,6.75 C4,6.61192881 4.11192881,6.5 4.25,6.5 L6.25,6.5 C7.4905,6.5 8.5,7.5095 8.5,8.75 C8.5,9.9905 7.4905,11 6.25,11 M6,4 C2.6915,4 0,6.6915 0,10 C0,13.3085 2.6915,16 6,16 C9.3085,16 12,13.3085 12,10 C12,6.6915 9.3085,4 6,4"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
