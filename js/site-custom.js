@@ -1,6 +1,6 @@
 jQuery(document).ready(function(){
 	jQuery('.menubtn').on('click', function(){
-	jQuery('.header-nav-main  .main-nav').slideToggle();
+	jQuery('.header-nav-main  .main-nav').slideToggle('fast');
 	if(jQuery('.header-nav-main .main-nav').is(':visible')){
 		jQuery('body').toggleClass('responsive-menu-open');
 	}
@@ -17,7 +17,7 @@ jQuery(document).ready(function(){
 	  
 	  jQuery(".smile").slick({
         infinite: true,
-		dots: true,
+		dots: false,
 		autoplay: true,
 		fade: true,
 		lazyLoad: 'ondemand',
