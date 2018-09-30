@@ -811,6 +811,7 @@ p {
 	background-position: left top;
 	background-size: 100% auto;
 	background-repeat:no-repeat;
+	z-index: 99;
 }
 .smile-gallery-main .slick-prev{background-image:url(../images/L.svg);}
 .smile-gallery-main .slick-next{background-image:url(../images/R.svg); left: 55px;}
